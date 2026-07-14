@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-q6w8e7.filezillas.icu/sitemap.xml
